@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Son Trinh
 
-<!--
-**ngcsontrh/ngcsontrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused mainly on **.NET**, **Azure**, and **TypeScript**.
 
-Here are some ideas to get you started:
+I enjoy building practical software, learning by shipping small projects, and exploring new technologies before they become part of my everyday stack. I also build AI agent workflows using tools such as **Microsoft Agent Framework** and **LangGraph**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm diving deeper into **Azure** and its ecosystem.
+
+[![Main stack](https://skillicons.dev/icons?i=dotnet,azure,react&theme=dark)](https://skillicons.dev)
+
+### Tech Stack
+
+- **Languages:** C#, TypeScript, Python
+- **Backend:** ASP.NET, API development, MCP servers
+- **Frontend:** React, Blazor
+- **Databases & Storage:** SQL Server, PostgreSQL, Redis, Qdrant
+- **Cloud:** Azure
+- **Interests:** AI agents, cloud architecture, automation, developer tools, databases
+
+### What I'm Exploring
+
+- Building reliable apps on Azure
+- Designing and experimenting with AI agent workflows
+- Improving backend architecture, API design, and cloud-native development practices
+- Building tools and MCP servers for developer workflows
+- Trying out new tools, frameworks, and ideas through small projects
