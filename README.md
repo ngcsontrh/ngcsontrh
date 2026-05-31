@@ -24,3 +24,8 @@ Right now, I'm diving deeper into **Azure** and its ecosystem.
 - Improving backend architecture, API design, and cloud-native development practices
 - Building tools and MCP servers for developer workflows
 - Trying out new tools, frameworks, and ideas through small projects
+
+### Contact
+
+- **Email:** [trhsonngoc12@gmail.com](mailto:trhsonngoc12@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/ngcsontrh](https://www.linkedin.com/in/ngcsontrh)
